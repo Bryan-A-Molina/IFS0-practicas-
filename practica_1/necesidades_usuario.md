@@ -4,7 +4,7 @@ Bryan Alejandro Molina Molina MM103824
 
 INTRODUCCION
 
-Acontonuacion se analizara el caso de una empresa que tiene 25 empleados que pierden informacion constantemente, su sistemas es poco eficiente y lento. El proposito de esta guia es identificar las necesidades de la empresa  sin proponer
+Acontinuacion se analizara el caso de una empresa que tiene 25 empleados, que pierden informacion constantemente, su sistemas es poco eficiente y lento. El proposito de esta guia es identificar las necesidades de la empresa  sin proponer
 soluciones técnicas.
 
 Identificación de necesidades explícitas
